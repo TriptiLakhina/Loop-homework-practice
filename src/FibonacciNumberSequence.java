@@ -23,16 +23,32 @@ public class FibonacciNumberSequence {
         int a=0,b=1,nextnum;
         System.out.println("Fibonacci number sequence upto your number "+ n+ " is:" );
         for (int i = 1; i <= n; i++) {
-            if (i<=1)
-                nextnum=i;
-            else {
+
+
+
+            if (i<=1) {
+                nextnum = i;
+                System.out.println(i);
+
+
+            }else {
                 nextnum=a+b;
+                if (nextnum>n)
+                    break;
                 a=b;
                 b=nextnum;
+                System.out.println(nextnum);
+
 
             }
-            System.out.println(nextnum);
-        }
+
+
+
+
+            }
+
+
+        }}
 
 //        int i2=1;
 //        int i=0;
@@ -52,13 +68,13 @@ public class FibonacciNumberSequence {
 
         //    if (i==sumOfPrevTwo){
 
-            }
 
 
 
 
 
-        }
+
+
 
 
 
