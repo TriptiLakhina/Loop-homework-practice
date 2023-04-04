@@ -12,7 +12,7 @@ public class DivisibleNumbers2 {
 
 
     public void divide() {
-        System.out.println("Enter 2 integer numbers to see the full list of numbers divisible by number 3 & 5 within your provided range");
+        System.out.println("\nEnter 2 integer numbers to see the full list of numbers divisible by number 3 & 5 within your provided range. \nPress enter after each input.");
         int number1 = scanner.nextInt();
         int number2 = scanner.nextInt();
 
