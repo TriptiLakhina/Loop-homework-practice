@@ -19,7 +19,7 @@ public class PositiveIntegerSeriesSum
         System.out.println("Enter a positive integer number");
         int number = scanner.nextInt();
 
-        double sum = 0;         //variable to store the running total of the sum
+        double sum = 0;         //variable to store the running total of the sum or //// Declare and initialize a variable to store the sum
         for (int i = 1; i <= number; i++)
         {
             sum += (1.0 / i);   // add the next fraction to the sum
