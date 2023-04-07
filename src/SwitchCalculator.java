@@ -35,7 +35,7 @@ public class SwitchCalculator {
         //Storing variables for 2nd user input using scanner object
         String symbol=scanner.next();
 
-        // Storing variables
+        // Storing variables.
 //        String add="+";
 //        String sub="-";
 //        String multiply="*";

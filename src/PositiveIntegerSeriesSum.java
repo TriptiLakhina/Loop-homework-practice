@@ -38,4 +38,5 @@ public class PositiveIntegerSeriesSum
 //        for (i = 1; i <= number; i++)
 //            s = s + 1/i;
 //        return s;
+//.
 

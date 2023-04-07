@@ -25,3 +25,4 @@ public class A_Count_In_String {
         } System.out.println("Total number of character 'a' in your string" + " \"" + sentence + "\" "+ "are: "+ count);
     }
 }
+//.

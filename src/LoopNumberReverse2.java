@@ -24,7 +24,7 @@ public class LoopNumberReverse2 {
 //            int remainder = number % 10;
 //            reverse = reverse * 10 + remainder;
 //            number=number/10;
-//        }
+// .       }
 
     }
 }

@@ -11,7 +11,7 @@ public class LoopNumberReverse {
         int number= scanner.nextInt();
         int reverse = 0;
 
-      //we have not mentioned the initialization part of the for loop
+      //.we have not mentioned the initialization part of the for loop
         for(;number != 0;)
         {
             int remainder = number % 10;

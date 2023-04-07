@@ -15,7 +15,7 @@ Scanner scanner=new Scanner(System.in);
         System.out.println("Enter an integer number from range 1-20 ");
 
         int a = scanner.nextInt();
-       // int b = scanner.nextInt();
+       //. int b = scanner.nextInt();
 
         int sum = 0;
 

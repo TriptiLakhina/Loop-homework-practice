@@ -25,7 +25,7 @@ public class NaturalSum {
               //  System.out.println(i);
 
              //   if (i++<=numn);
-               // break;
+               //. break;
 
 
             }

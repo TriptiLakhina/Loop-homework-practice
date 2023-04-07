@@ -32,7 +32,7 @@ public class LoopHomework
         if (rangenumber1 + 10 == rangenumber2) {
             System.out.println(" ");
         } else {
-            System.out.println("Invalid entry. Please enter a valid range of 10 numbers");
+            System.out.println("Invalid entry. Please enter a valid range of 10 numbers.");
         }
 
     }

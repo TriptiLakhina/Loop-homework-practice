@@ -13,7 +13,7 @@ public class NaturalNumberSum {
 
     void sumOfNaturalNumbers(){
         System.out.println("Enter any natural number");
-        //  int num1=scanner.nextInt();
+        //.  int num1=scanner.nextInt();
         int numn=scanner.nextInt();
 
         int sum=0;

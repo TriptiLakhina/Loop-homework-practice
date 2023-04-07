@@ -5,7 +5,7 @@ public class FactorialNumber {
     public static void main(String []args)
     {
         //Take input from the user
-        //Create an instance of the Scanner Class
+        //.Create an instance of the Scanner Class
         Scanner scanner=new Scanner(System.in);
         //Declare and Initialize the variable
         System.out.println("Enter the number: ");

@@ -45,7 +45,7 @@ public class Range_1To20_XSum {
 
 //        }else{
 
-   //         System.out.println("Invalid entry. Please input number from range 1-20.");}
+   //        . System.out.println("Invalid entry. Please input number from range 1-20.");}
 
 
 

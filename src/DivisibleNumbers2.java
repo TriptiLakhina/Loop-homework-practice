@@ -38,7 +38,7 @@ public class DivisibleNumbers2 {
 
 
 //        System.out.println("Enter either number 3 or 5 to see the full list of numbers divisible by your number from 1-100");
-//        int number = scanner.nextInt();
+//        .int number = scanner.nextInt();
 
 
 //

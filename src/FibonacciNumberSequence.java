@@ -27,7 +27,7 @@ public class FibonacciNumberSequence {
 
 
             if (i<=1) {
-               // nextnum = i;
+               //. nextnum = i;
                 System.out.println(i);
 
 
