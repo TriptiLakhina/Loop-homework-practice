@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+// Writing a program using scanner class to see if the user input number is a prime number
+// used No return type and no parameters method by own r&d (google had it with return type and with parameter
 public class PrimeNumbers
 {
     Scanner scanner = new Scanner(System.in);
@@ -46,8 +47,8 @@ public class PrimeNumbers
 
 //int i=2;
       //  for (int i = 2; number % i == 0; i++)
-        {
-            for (int i=1; number >=1 ; i++)
+
+            for (int i=1; number >=1 ; i++){
             if (( number!=2)&&  (number!=3) && (number!=5) && (number % 2 == 0 || number==1 || (Math.pow(squareroot,2) == number) || number%3==0 || number%5==0))
 //  && (number!=3) && (number!=5)
             {
